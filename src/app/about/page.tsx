@@ -5,9 +5,16 @@ export default function About() {
 
       <p className="mt-4 text-lg">
         I prefer clarity over noise. I build small projects, write about ideas,
-        and work toward one big science-fiction film concept. This site is a record
+        and work toward many concepts such as artificial simulation, fictional stories and other entrepreneurship. This site is a record
         of that process — not a museum of finished achievements.
       </p>
+      <p className="mt-4 text-lg">
+        Analytical and creative first-year student with strengths in understanding complex ideas, generating original concepts,
+and structuring problems with clarity. Skilled in writing, worldbuilding, presentation design, and building organized
+digital workspaces. Strong abstract reasoning, critical thinking, and a disciplined learning mindset.
+      </p>
+
+
 
       <section className="mt-6">
         <h2 className="text-xl font-medium">Quick facts</h2>
